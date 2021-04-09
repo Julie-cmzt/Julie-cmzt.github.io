@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
+.container{
+  padding: 0px 5%;
+  margin: 0px auto;
+}
+
+body{
+  margin: 0px;  text-align: center; background-color:#ec4646;
+}
+
+.hero{
+  height: 50vh;
+  background-color: #c70039;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  background-size: cover;
+
+}
+
+.exemple1 {
+  color: white;
+  text-shadow: 2px 2px 0px #ae4e6f;
+}
+
+h1 {font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans Condensed', sans-serif;font-size:100px;text-align: center; }
+
+h2 {font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans Condensed', sans-serif;font-size:50px;text-align: center;}
+
+h3{font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans Condensed', sans-serif;font-size:30px;text-align: center;}
+
+h4{color: black; font-style:italic;}
+
+.exemple2 h1{
+  background-color: #ec4646;  
+}
+
